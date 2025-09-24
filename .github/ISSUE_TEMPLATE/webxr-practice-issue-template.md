@@ -1,6 +1,6 @@
 ---
 name: webXR-practice Issue Template
-about: Describe this issue template's purpose here.
+about: 이슈 작성 템플릿
 title: "[FEAT] 기능 구현"
 labels: ''
 assignees: HiJuwon
